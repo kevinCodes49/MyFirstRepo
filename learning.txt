@@ -1,0 +1,1 @@
+What I have learned from this course﻿ is how version control systems like Git allow teams to collaborate and track changes in code effectively.
